@@ -113,7 +113,7 @@ This project implements a **Linear Regression model** to predict Air Quality Ind
 
 ### 1. AQI Heatmap by Year and Month
 
-![AQI Heatmap](assets/01_aqi_heatmap.png)
+![AQI Heatmap](assets\03_pollutant_distributions.png)
 
 **Insights:**
 - Shows seasonal patterns in air quality
